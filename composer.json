@@ -1,0 +1,14 @@
+{
+    "name": "jimyaghi/gcs-media-plugin",
+    "description": "Media Plugin for GCS",
+    "type": "wordpress-plugin",
+    "keywords": ["cloud", "wordpress", "google"],
+    "homepage": "https://github.com/jimyaghi/wordpress-plugins",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "GPL-2.0",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
